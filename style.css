@@ -9,3 +9,12 @@
     height: 100vh;
     background-size: cover;
 }
+
+.btn-one {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 60px;
+    left: 16px;
+    position: absolute;
+}
