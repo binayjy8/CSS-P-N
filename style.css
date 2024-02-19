@@ -75,9 +75,13 @@
 }
 
 .sidebar-menu .social-media {
-    color: white;
-    opacity: 0.5;
     position: absolute;
     left: 28%;
-    bottom: 25px;
+    bottom: 55px;
+}
+
+.sidebar-menu .social-media i {
+    color: white;
+    opacity: 0.5;
+    padding: 0 0.5px;
 }
