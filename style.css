@@ -18,3 +18,8 @@
     left: 16px;
     position: absolute;
 }
+
+.sidebar-menu {
+    position: fixed;
+    left: -300px;
+}
