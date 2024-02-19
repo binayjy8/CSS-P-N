@@ -43,3 +43,12 @@
     font-size: 25px;
     font-weight: 450;
 }
+
+.sidebar-menu .btn-two {
+    color: rgb(90, 88, 88);
+    line-height: 60px;
+    font-size: 25px;
+    position: absolute;
+    left: 275px;
+    opacity: 0;
+}
