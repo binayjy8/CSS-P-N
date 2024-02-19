@@ -52,3 +52,32 @@
     left: 275px;
     opacity: 0;
 }
+
+.sidebar-menu .menu {
+    position: absolute;
+    width: 100%;
+    top: 80px;
+}
+
+.sidebar-menu .menu li {
+    margin-top: 6px;
+    padding: 10px 20px;
+}
+
+.sidebar-menu .menu a,i {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.sidebar-menu .menu i {
+    padding-right: 8px;
+}
+
+.sidebar-menu .social-media {
+    color: white;
+    opacity: 0.5;
+    position: absolute;
+    left: 28%;
+    bottom: 25px;
+}
