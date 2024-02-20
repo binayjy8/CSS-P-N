@@ -115,3 +115,7 @@
 #check:checked ~ .btn-one i {
     opacity: 0;
 }
+
+#check:checked ~ .btn-two i {
+    opacity: 1;
+}
