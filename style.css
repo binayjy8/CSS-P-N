@@ -102,3 +102,7 @@
 .btn-two i:hover {
     font-size: 30px;
 }
+
+.sidebar-menu .social-media i:hover {
+    opacity: 1;
+}
