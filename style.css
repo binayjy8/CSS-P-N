@@ -95,10 +95,10 @@
     box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
 }
 
-.btn-one:hover {
+.btn-one i:hover {
     font-size: 40px;
 }
 
-.btn-two:hover {
+.btn-two i:hover {
     font-size: 30px;
 }
