@@ -51,6 +51,7 @@
     position: absolute;
     left: 275px;
     opacity: 0;
+    cursor: pointer;
 }
 
 .sidebar-menu .menu {
