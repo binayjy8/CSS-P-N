@@ -112,3 +112,6 @@
     left: 0;
 }
 
+#check:checked ~ .btn-one i {
+    opacity: 0;
+}
