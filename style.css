@@ -108,6 +108,7 @@
     transform: scale(1.2);
 }
 
-#chech:checked ~ .sidebar-menu {
+#check:checked ~ .sidebar-menu {
     left: 0;
 }
+
