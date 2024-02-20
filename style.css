@@ -107,3 +107,7 @@
     opacity: 1;
     transform: scale(1.2);
 }
+
+#chech:checked ~ .sidebar-menu {
+    left: 0;
+}
