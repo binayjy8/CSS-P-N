@@ -98,6 +98,7 @@
 
 .btn-one i:hover {
     font-size: 40px;
+    transition: all 0.3s linear;
 }
 
 .btn-two i:hover {
