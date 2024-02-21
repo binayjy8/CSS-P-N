@@ -103,6 +103,7 @@
 
 .btn-two i:hover {
     font-size: 30px;
+    transition: all 0.3s linear;
 }
 
 .sidebar-menu .social-media i:hover {
